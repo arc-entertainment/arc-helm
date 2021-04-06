@@ -3,6 +3,17 @@ entries:
   xr3ngine:
   - apiVersion: v2
     appVersion: 0.0.3
+    created: "2021-04-06T16:39:41.774771433-07:00"
+    description: A Helm chart for Kubernetes
+    digest: e5955d2b6a784069fdda7d464408576670bb6e14c5d4e2754b19e8b4b42bed20
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xr3ngine
+    type: application
+    urls:
+      - https://helm.xrengine.io/xr3ngine-2.4.3.tgz
+    version: 2.4.3
+  - apiVersion: v2
+    appVersion: 0.0.3
     created: "2021-03-26T16:34:09.44184154-07:00"
     dependencies:
       - condition: mariadb.enabled
@@ -586,4 +597,4 @@ entries:
     urls:
     - https://helm.xrengine.io/xrchat-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-26T16:34:09.435343241-07:00"
+generated: "2021-04-06T16:39:41.771897137-07:00"
