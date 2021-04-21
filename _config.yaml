@@ -1,8 +1,8 @@
-title: Our XR3ngine Helm chart repo
+title: ARC Helm chart repo
 description: A chart repo for storing charts.
 theme: minima
-url: "https://helm.xrengine.io"
-repo_name: xr3ngine
+url: "https://arc-entertainment.github.io/arc-helm"
+repo_name: arc
 
 exclude:
   - Gemfile
