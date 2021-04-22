@@ -3,6 +3,17 @@ entries:
   arc:
     - apiVersion: v2
       appVersion: 0.0.3
+      created: "2021-04-22T00:07:51.246877127-07:00"
+      description: A Helm chart for Kubernetes
+      digest: 1aee976f7cfa87a122d757af4e408a960e7a7eb4aa4a46e00a50b4af67051c5e
+      icon: https://avatars3.githubusercontent.com/u/61642798
+      name: arc
+      type: application
+      urls:
+        - https://arc-entertainment.github.io/arc-helm/arc-1.0.1.tgz
+      version: 1.0.1
+    - apiVersion: v2
+      appVersion: 0.0.3
       created: "2021-04-21T14:31:59.635173848-07:00"
       description: A Helm chart for Kubernetes
       digest: bd09a895e4c2acbd5490ea3a0d7e3111cae30cd63db958a126629da0ea6b948d
@@ -12,4 +23,4 @@ entries:
       urls:
         - https://arc-entertainment.github.io/arc-helm/arc-1.0.0.tgz
       version: 1.0.0
-generated: "2021-04-21T14:31:59.63179892-07:00"
+generated: "2021-04-22T00:07:51.243992191-07:00"
